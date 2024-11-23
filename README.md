@@ -6,6 +6,8 @@
 Olá, me chamo Jocson de Souza Lobo, mais conhecido como Joks Lobo. Futuro desenvolvedor front-end em transição de carreira me formando em Full Stack Python pela EBAC.
 
 ---
+<br>
+<br>
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -101,6 +103,7 @@ Olá, me chamo Jocson de Souza Lobo, mais conhecido como Joks Lobo. Futuro desen
 
 <br/>
 <br/>
+
 
 ### 📊 Estatísticas
 
